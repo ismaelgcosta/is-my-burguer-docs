@@ -8,7 +8,7 @@ Este repositório tem por objetivo centralizar as principais características do
 
 ![alt text](/docs/is-my-burguer-api.drawio.png)
 
-# Requisitos necessários para compilar o projeto
+# Requisitos necessários para compilar e subir os projetos das APIs
 
 Ter o docker instalado na sua máquina:
 
@@ -21,6 +21,12 @@ Ter o docker instalado na sua máquina:
 Ter o Java 20 instalado na sua máquina:
 
 [JDK 20](https://jdk.java.net/java-se-ri/20)
+
+# Requisitos necessários para criação da infra na AWS:
+
+Ter o Terraform instalado na sua máquina:
+
+[Download](https://developer.hashicorp.com/terraform/install?product_intent=terraform)
 
 ## Wiki:
 
