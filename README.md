@@ -6,7 +6,7 @@ Este repositório tem por objetivo centralizar as principais características do
 
 ## Estrutura na AWS
 
-![alt text](/docs/is-my-burguer-api.drawio.png)
+![alt text](/is-my-burguer-api.drawio.png)
 
 # Requisitos necessários para compilar e subir os projetos das APIs
 
