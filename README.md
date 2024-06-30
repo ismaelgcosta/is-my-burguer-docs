@@ -24,7 +24,7 @@ Ter o Java 20 instalado na sua máquina:
 
 ## Wiki:
 
-Para mais detalhes sobre o projeto acesse a Wiki: (https://github.com/ismaelgcosta/is-my-burguer-docs/wiki)[https://github.com/ismaelgcosta/is-my-burguer-docs/wiki]
+Para mais detalhes sobre o projeto acesse a Wiki:[https://github.com/ismaelgcosta/is-my-burguer-docs/wiki]
 
 
 
